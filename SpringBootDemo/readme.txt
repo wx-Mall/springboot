@@ -146,7 +146,7 @@ http://412887952-qq-com.iteye.com/blog/2300313
 
 
 16. easyui
-	http://localhost:8081/index.html
+	http://localhost:8081/SpringBootDemo/
 	
 
 	
